@@ -1,0 +1,9 @@
+<h1 class="wh-title">
+  {{ 'warehouses.header.title' | translate }}
+</h1>
+
+<ul class="wh-list">
+  <li class="wh-item" *ngFor="let warehouse of warehouses">
+    {{ warehouse.country }}, {{ warehouse.city }}, {{ warehouse.code }}
+  </li>
+</ul>

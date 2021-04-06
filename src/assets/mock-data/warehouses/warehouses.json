@@ -1,0 +1,41 @@
+{
+  "type": "warehouses",
+  "total": 7,
+  "warehouses": [
+    {
+      "country": "Germany",
+      "city": "Jena",
+      "code": 4957
+    },
+    {
+      "country": "Australia",
+      "city": "Melbourne",
+      "code": 1515
+    },
+    {
+      "country": "United States",
+      "city": "San Francisco",
+      "code": 3127
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "code": 4463
+    },
+    {
+      "country": "China",
+      "city": "Shanghai",
+      "code": 4957
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "code": 3212
+    },
+    {
+      "country": "India",
+      "city": "New Dehli",
+      "code": 991
+    }
+  ]
+}
